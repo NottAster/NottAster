@@ -1,11 +1,23 @@
-## Hi there 👋
+## OoP Hey! ꒰ᐢ. .ᐢ꒱
 
-<!--
-**NottAster/NottAster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
+
+
+if your seeing this, you probably spotted me on ponytown.. 
+
+
+
+
+<!-- 
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+if your seeing this, you probably spotted me on ponytown..f 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
